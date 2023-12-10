@@ -14,3 +14,4 @@ Access Weather Explorer from any device with our responsive design. Whether you'
 
 🎨 Clean and Intuitive UI:
 We believe in simplicity and clarity. The website's clean and intuitive user interface makes it effortless to navigate and find the weather information you need. No clutter, just straightforward design focused on delivering the information you're looking for.
+Weather Explorer is not just a weather website; it's a tool designed to make your weather-checking experience efficient, enjoyable, and informative. Experience the power of HTML, CSS, and JavaScript working seamlessly together to bring you the latest weather updates in a visually appealing and user-friendly manne
